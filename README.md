@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+```yaml
+name: Jun Yong Jeong
+backends:
+  java:
+    - spring, spring data jpa
+    - spring cloud, SCDF
+    - spring batch 
+dev_ops:
+  - kubernetes, docker(podman), gitops
+  - jenkins CI
+  - argoCD
+  - nGrinder
+hello_world_level:
+  - python, django
+  - javascript, vue.js
+hobbies:
+  - problem solving
+  - reading programming books
+  - tech talks
+```
+
 <div align=center>
   <a align=center href="https://velog.io/@jundragon"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=programmer_jjy"/>
