@@ -13,8 +13,12 @@ dev_ops:
   - argoCD
   - nGrinder
 hello_world_level:
-  - python, django
-  - javascript, vue.js
+  web:
+    - python, django
+    - javascript, vue.js
+  ml:
+    - yolo(object detection), siammask (object tracking)
+    - GAN
 hobbies:
   - problem solving
   - reading programming books
