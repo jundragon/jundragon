@@ -19,10 +19,14 @@ hello_world_level:
   ml:
     - yolo(object detection), siammask (object tracking)
     - GAN
-hobbies:
+interesting:
+  - software architecture
   - problem solving
   - reading programming books
   - tech talks
+hobbies:
+  - board game
+  - collecting stationery
 ```
 
 <div align=center>
