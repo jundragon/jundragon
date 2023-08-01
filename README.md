@@ -12,6 +12,7 @@ backends:
   groovy:
     - gradle build tool
     - jenkins pipeline
+    - nGrinder test script
 dev_ops:
   - kubernetes, docker(podman), gitops
   - jenkins CI
