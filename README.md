@@ -6,7 +6,12 @@ backends:
   java:
     - spring, spring data jpa
     - spring cloud, SCDF
-    - spring batch 
+    - spring batch
+  kotlin:
+    - TBD
+  groovy:
+    - gradle build tool
+    - jenkins pipeline
 dev_ops:
   - kubernetes, docker(podman), gitops
   - jenkins CI
