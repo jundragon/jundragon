@@ -6,16 +6,22 @@ backends:
   java:
     - spring (mvc, cloud, scdf, batch, stream, jpa)
     - gc, thread, performance tunning (JVM)
+    - code review
   kotlin:
     - TBD
   groovy:
     - jenkins pipeline
     - nGrinder test script
 dev_ops:
-  - kubernetes, docker(podman), gitops
+  - kubernetes (keycloak RBAC, velero)
+  - docker(podman), gitops
   - jenkins CI
   - argoCD
   - nGrinder
+  - monitoring (prometheus + grafana)
+etc:
+  - jira, confluence, bitbucket
+  - slack
 hello_world_level:
   web:
     - python, django
