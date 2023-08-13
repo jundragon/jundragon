@@ -4,13 +4,11 @@
 name: Jun Yong Jeong
 backends:
   java:
-    - spring, spring data jpa
-    - spring cloud, SCDF
-    - spring batch
+    - spring (cloud, scdf, batch, stream, jpa)
+    - gc, thread, performance tunning (JVM)
   kotlin:
     - TBD
   groovy:
-    - gradle build tool
     - jenkins pipeline
     - nGrinder test script
 dev_ops:
@@ -28,7 +26,7 @@ hello_world_level:
 interesting:
   - software architecture
   - problem solving
-  - reading programming books
+  - read programming books
   - tech talks
 hobbies:
   - board game
