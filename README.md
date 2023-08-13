@@ -4,7 +4,7 @@
 name: Jun Yong Jeong
 backends:
   java:
-    - spring (cloud, scdf, batch, stream, jpa)
+    - spring (mvc, cloud, scdf, batch, stream, jpa)
     - gc, thread, performance tunning (JVM)
   kotlin:
     - TBD
