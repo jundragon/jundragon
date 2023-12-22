@@ -38,9 +38,7 @@ hobbies:
   - board game
   - collecting stationery
 ```
-<div align=center>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=programmer_jjy)](https://solved.ac/profile/programmer_jjy)
-</div>
 
 <div align=center>
   <a align=center href="https://velog.io/@jundragon"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
