@@ -40,6 +40,7 @@ hobbies:
   - collecting stationery
 ```
 <hr>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=programmer_jjy)](https://solved.ac/profile/programmer_jjy)
 
 <!--
