@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjundragon%2Fhit-counter&count_bg=%23236C1B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ```yaml
 name: Jun Yong Jeong
@@ -38,10 +39,8 @@ hobbies:
   - board game
   - collecting stationery
 ```
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=programmer_jjy)](https://solved.ac/profile/programmer_jjy)
-
 <hr>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjundragon%2Fhit-counter&count_bg=%23236C1B&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=programmer_jjy)](https://solved.ac/profile/programmer_jjy)
 
 <!--
 **jundragon/jundragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
